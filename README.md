@@ -4,7 +4,7 @@ A very simple discord bot <br>
 
 # Features
 
-1. Display random word when trigger (ape or svenska) is called
+1. Display random word when trigger (test or svenska) is called
 1. !cat to display a random cat picture
 1. !dog to display a random cat picture
 
